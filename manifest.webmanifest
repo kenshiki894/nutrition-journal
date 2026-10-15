@@ -1,0 +1,1 @@
+{"name":"Nutrition Journal","short_name":"Nutrition","description":"Track meals, calories and nutrients","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f4f8f5","theme_color":"#123f39","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
